@@ -19,7 +19,7 @@ const settings = definePluginSettings({
     imageSource: {
         type: OptionType.STRING,
         description: "Sets the image url of the jumpscare",
-        default: "https://github.com/Equicord/Equibored/blob/main/icons/jumpscare/troll.gif?raw=true"
+        default: "https://cdn.corenexis.com/files/c/8638592720.png"
     },
     audioSource: {
         type: OptionType.STRING,
